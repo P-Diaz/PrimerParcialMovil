@@ -38,7 +38,6 @@
         android:layout_marginTop="84dp"
         android:ems="10"
         android:inputType="text"
-        android:text="@string/txtCedula"
         android:textSize="12sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -163,6 +162,8 @@
         android:id="@+id/btnEnviar"
         android:layout_width="161dp"
         android:layout_height="61dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginBottom="212dp"
         android:onClick="Enviar"
         android:text="Enviar"
         app:layout_constraintBottom_toBottomOf="parent"

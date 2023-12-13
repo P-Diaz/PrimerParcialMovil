@@ -3,6 +3,7 @@ package com.hpdp.primerparcialmovil;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 public class Matricula extends AppCompatActivity {
@@ -88,5 +89,9 @@ public class Matricula extends AppCompatActivity {
 
         total = renovacion + valorMatricula + multacontaminacion + multa;
         lblTotal.setText("Total a pagar: " + total + " Dolares");
+    }
+
+    public void Regresar(View view){
+        finish();
     }
 }
