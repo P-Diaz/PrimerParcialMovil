@@ -3,6 +3,9 @@
     <style name="Base.Theme.PrimerParcialMovil" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="colorPrimaryVariant">#787878</item>
+        <item name="colorOnPrimary">#2E2B2B</item>
     </style>
 
     <style name="Theme.PrimerParcialMovil" parent="Base.Theme.PrimerParcialMovil" />
