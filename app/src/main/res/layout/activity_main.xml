@@ -38,6 +38,7 @@
         android:layout_marginTop="84dp"
         android:ems="10"
         android:inputType="text"
+        android:text="@string/txtCedula"
         android:textSize="12sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

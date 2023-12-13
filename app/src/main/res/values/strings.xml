@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">PrimerParcialMovil</string>
+    <string name="txtCedula">Cedula</string>
     <string-array name="Marcas">
         <item>Toyota</item>
         <item>Suzuki</item>
